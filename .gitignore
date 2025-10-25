@@ -1,0 +1,38 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+
+# Visual Studio / VS Code
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.ide/
+*.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.stackdump
+*.apk
+*.aab
+*.app
+*.iws
+
+# JetBrains Rider
+.idea/
+*.sln.iml
